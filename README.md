@@ -7,7 +7,9 @@
 
 <h3 align="center">언젠가 풀스택 개발자가 되는 그날까지...!!</h2>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=haeji1124&label=Profile%20views&color=0e75b6&style=flat" alt="haeji1124" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=haeji1124&label=Profile%20views&color=0e75b6&style=flat" alt="haeji1124" /><a href="https://hhpluscertificateofcompletion.oopy.io/">
+  <img src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_brown.svg" />
+</a> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=haeji1124" alt="haeji1124" /></a> </p>
 <br>
